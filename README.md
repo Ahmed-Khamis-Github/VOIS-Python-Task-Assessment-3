@@ -8,7 +8,7 @@ This project processes employee data from a CSV file using Python
 ### Steps to Execute:
 
 1. **Load Data and Remove Duplicates:**
-   - Read employee data from `data.csv`.
+   - Read employee data from `Employees.csv`.
    - Remove any duplicate entries.
 
 2. **Clean Age Column:**
@@ -24,7 +24,7 @@ This project processes employee data from a CSV file using Python
      - Ratio of males to females.
 
 5. **Export Processed Data:**
-   - Save the cleaned data to a new CSV file (`cleaned_data.csv`).
+   - Save the cleaned data to a new CSV file (`new_file.csv`).
 
  
 
